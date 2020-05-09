@@ -2,8 +2,11 @@
 
 #### 介绍
 如花商城是基于Thinkphp6+uniapp+element开发的一套新零售移动电商系统，采用三端分离。
+
 支持：小程序，APP双端，公众号H5
+
 多商户版本：https://github.com/baok1592/ruhua_shops
+
 单商户版本：https://github.com/baok1592/ruhua
 
 ##### 官网： http://www.ruhuashop.com
