@@ -29,6 +29,9 @@
 #### 后台演示
 http://demo.ruhuashop.com/shops_cms/	账号：admin	密码123456
 
+#### PC端演示
+http://demo.ruhuashop.com/shops_pc/	账号：admin	密码123456
+
 #### 单商户版本
 https://github.com/baok1592/ruhua
 #### 开源版使用须知
