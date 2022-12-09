@@ -10,7 +10,7 @@
 匆匆上线，还有很多不完善，疯狂迭代中...
 
 
-##### 官网： http://www.ruhuashop.com 
+##### 官网： https://mall.telidy.cn/
 ##### QQ群： 728615087
 ##### 前端： https://github.com/baok1592/ruhua_vue  
 
@@ -22,15 +22,14 @@
 4.  访问：域名/shops_pc 进入商家PC端
 4.  访问：域名/shop_cms 进入商家移动端
 
-#### 扫码演示
-![image](http://demo.ruhuashop.com/gzh_shops.png)
-![image](http://demo.ruhuashop.com/shop_cms_log.png)
-
 #### 后台演示
-http://demo.ruhuashop.com/shops_cms/	账号：admin	密码123456
+总后台：http://demo.telidy.cn/shops_cms
 
-#### PC端演示
-http://demo.ruhuashop.com/shops_pc/	账号：13012345678	密码123456
+商家端PC端：http://demo.telidy.cn/shops_pc
+
+
+#### 扫码演示
+请到官网查看：https://mall.telidy.cn/ 
 
 #### 单商户版本
 https://github.com/baok1592/ruhua
