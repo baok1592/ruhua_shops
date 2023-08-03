@@ -11,7 +11,7 @@
 
 
 ##### 官网： https://mall.telidy.cn/
-##### QQ群： 728615087
+##### QQ群： 425462686
 ##### 前端： https://github.com/baok1592/ruhua_vue  
 
 #### 安装与使用教程
